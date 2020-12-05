@@ -13,5 +13,3 @@ console.log(bc.pow(2, 3));
 console.log(bc.mod(1, 2));
 
 console.log(bc.max(2, 3));
-
-fgjgfjfj
